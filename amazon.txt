@@ -1,2 +1,3 @@
 Amazon Web Service
 Amazon Shopping Site
+Amazon is king of cloud technologies
